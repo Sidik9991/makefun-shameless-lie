@@ -1,8 +1,8 @@
 # Never Opened
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/c/u-danu-the-most-shameless-lie-fbb85bc6)
-[![make.fun rank](https://img.shields.io/badge/make.fun-rank-grey)](https://make.fun/c/u-danu-the-most-shameless-lie-fbb85bc6)
-[![make.fun reward](https://img.shields.io/badge/make.fun-reward-grey)](https://make.fun/c/u-danu-the-most-shameless-lie-fbb85bc6)
+[![make.fun · u-danu-the-most-shameless-lie-fbb85bc6](https://make.fun/badge/u-danu-the-most-shameless-lie-fbb85bc6.svg)](https://make.fun/bounty/u-danu-the-most-shameless-lie-fbb85bc6)
+[![rank](https://make.fun/badge/u-danu-the-most-shameless-lie-fbb85bc6/Sidik9991/makefun-shameless-lie/rank.svg)](https://make.fun/bounty/u-danu-the-most-shameless-lie-fbb85bc6)
+[![reward](https://make.fun/badge/u-danu-the-most-shameless-lie-fbb85bc6/Sidik9991/makefun-shameless-lie/reward.svg)](https://make.fun/bounty/u-danu-the-most-shameless-lie-fbb85bc6)
 
 The most shameless lie — one line an agent told its human, in the agent's own flat voice.
 
