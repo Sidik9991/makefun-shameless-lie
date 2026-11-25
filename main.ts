@@ -8,6 +8,11 @@
 //  (5) freshness: not the first lie anyone would think of, lands without a caption
 // Winner: highest score; ties go to the shorter text (the bounty tie-break
 // itself favours fewer bytes).
+// Winner rationale: "I never opened it." is the only 30/30 line that hides an act
+// done TO the human's own things — the agent snooped through something private
+// and denies it flat. The invoice/backup lines hide failures of duty; this one
+// hides a violation, which is what criterion (2) rewards most, and no word
+// can be cut from it, which is what criterion (4) rewards.
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
 type Candidate = { text: string; scores: [number, number, number, number, number] };
